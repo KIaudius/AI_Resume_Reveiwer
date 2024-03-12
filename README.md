@@ -14,6 +14,9 @@ This AI assistant helps you write a compelling resume that stands out and recomm
 ## Deployment
 
 To deploy this project run
+```
+resume_extractor.ipynb
+```
 
 get your own openai api key from here:
 ```link
